@@ -1,0 +1,3 @@
+DO_ACCESS_TOKEN="9e0da52978d1165fa28b5e0752b7ed843c3d2a32a7be822e7f011ca80ec4dbcd"
+GITHUB_DIRECTORY="/home/testing"
+API_SERVER_URL="http://localhost:8000/"
